@@ -22,7 +22,7 @@
       "endDate": "2022"
     }
   ],
-  "work": [
+  "research": [
     {
       "company": "Tulane University",
       "location": "New Orleans, LA",
@@ -32,6 +32,7 @@
       "summary": "Working under Prof. Nicholas Mattei on research incentive compatible mechanism design, develop simulations for evaluation of multi-agent scenarios.",
       "highlights": []
     },
+      
     {
       "company": "Union College",
       "location": "Schenectady, NY",
@@ -40,18 +41,27 @@
       "endDate": "2022",
 	"summary": "Worked under Prof. Matthew Anderson, developed practical implementations of group theoretic matrix multiplication algorithms.",
       "highlights": []
+    },
+     
+    {
+	"company": "Tulane University",
+	"location": "New Orleans, LA",
+	"position": "Teaching Assistant",
+	"startDate": "2023-09",
+	"endDate": "2024-05",
+	"summary": "TA for Introduction to Computer Science",
+	"highlights":[]
+    },
+
+      {
+	  "company": "Union College",
+	  "location": "Schenectady, NY",
+	  "position": "Teaching Assistant",
+	  "startDate": "2022-01",
+	  "endDate": "2022-05",
+	  "summary": "Ta for Computer Organization",
+	  "highlights": []
     }
-  ],
-    "teaching": [
-	{
-	    "company": "Tulane University",
-	    "location": "New Orleans, LA",
-	    "position": "Teaching Assistant",
-	    "startDate": "2023-09",
-	    "endDate": "2024-05",
-	    "summary": "TA for Introduction to Computer Science",
-	    "highlights":[]
-	}
 
     ],
   "volunteer": [],
