@@ -11,7 +11,7 @@
       "area": "Computer Science",
       "studyType": "PhD",
       "startDate": "2023",
-      "endDate": "Present"
+      "endDate": "Now"
     },
     {
       "institution": "Union College",
@@ -29,7 +29,7 @@
       "position": "Research Assistant",
       "startDate": "2023-09",
       "endDate": "Present",
-      "summary": "Research incentive compatible mechanism design, develop simulations for evaluation of multi-agent scenarios.",
+      "summary": "Working under Prof. Nicholas Mattei on research incentive compatible mechanism design, develop simulations for evaluation of multi-agent scenarios.",
       "highlights": []
     },
     {
@@ -38,7 +38,7 @@
       "position": "Research Assistant",
       "startDate": "2021",
       "endDate": "2022",
-      "summary": "Developed practical implementations of group theoretic matrix multiplication algorithms.",
+	"summary": "Worked under Prof. Matthew Anderson, developed practical implementations of group theoretic matrix multiplication algorithms.",
       "highlights": []
     }
   ],
