@@ -28,7 +28,7 @@
       "location": "New Orleans, LA",
       "position": "Research Assistant",
       "startDate": "2023-09",
-      "endDate": "Present",
+      "endDate": "Now",
       "summary": "Working under Prof. Nicholas Mattei on research incentive compatible mechanism design, develop simulations for evaluation of multi-agent scenarios.",
       "highlights": []
     },
@@ -42,6 +42,18 @@
       "highlights": []
     }
   ],
+    "teaching": [
+	{
+	    "company": "Tulane University",
+	    "location": "New Orleans, LA",
+	    "position": "Teaching Assistant",
+	    "startDate": "2023-09",
+	    "endDate": "2024-05",
+	    "summary": "TA for Introduction to Computer Science",
+	    "highlights":[]
+	}
+
+    ],
   "volunteer": [],
   "awards": [
     {
