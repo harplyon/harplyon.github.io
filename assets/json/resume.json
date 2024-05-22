@@ -1,4 +1,41 @@
-ant",
+{
+  "basics": {
+    "name": "Harper Lyon",
+    "email": "hlyon@tulane.edu",
+    "phone": "484-868-5414"
+  },
+  "education": [
+    {
+      "institution": "Tulane University",
+      "location": "New Orleans, LA",
+      "area": "Computer Science",
+      "studyType": "PhD",
+      "startDate": "2023",
+      "endDate": "Present"
+    },
+    {
+      "institution": "Union College",
+      "location": "Schenectady, NY",
+      "area": "Computer Science, Philosophy",
+      "studyType": "BS",
+      "honor": "summa cum laude",
+      "endDate": "2022"
+    }
+  ],
+  "work": [
+    {
+      "company": "Tulane University",
+      "location": "New Orleans, LA",
+      "position": "Research Assistant",
+      "startDate": "2023-09",
+      "endDate": "Present",
+      "summary": "Research incentive compatible mechanism design, develop simulations for evaluation of multi-agent scenarios.",
+      "highlights": []
+    },
+    {
+      "company": "Union College",
+      "location": "Schenectady, NY",
+      "position": "Research Assistant",
       "startDate": "2021",
       "endDate": "2022",
       "summary": "Developed practical implementations of group theoretic matrix multiplication algorithms.",
